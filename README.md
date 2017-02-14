@@ -1,5 +1,7 @@
-Design Patterns
+<h1>Design Patterns</h1>
 
-Creational:
-    Abstract Factory,
-    Builder
+<h2>Creational</h2>
+
+<h6>Abstract Factory</h6>
+<h6>Builder</h6>
+<h6>Factory Method</h6>
