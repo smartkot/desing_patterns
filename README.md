@@ -6,3 +6,4 @@
 <h6>Builder</h6>
 <h6>Factory Method</h6>
 <h6>Prototype</h6>
+<h6>Singleton</h6>
