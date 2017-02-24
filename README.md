@@ -11,3 +11,5 @@
 <h2>Structural</h2>
 
 <h6>Adapter</h6>
+<h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/bridge.py">Bridge</a></h6>
+<h6>Composite</h6>
