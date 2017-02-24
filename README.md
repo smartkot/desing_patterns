@@ -11,3 +11,4 @@
 <h2>Structural</h2>
 
 <h6>Adapter</h6>
+<h6>Bridge</h6>
