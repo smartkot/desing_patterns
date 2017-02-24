@@ -7,3 +7,7 @@
 <h6>Factory Method</h6>
 <h6>Prototype</h6>
 <h6>Singleton</h6>
+
+<h2>Structural</h2>
+
+<h6>Adapter</h6>
