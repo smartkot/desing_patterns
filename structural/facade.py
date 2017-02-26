@@ -13,32 +13,44 @@ a class library. It can:
 
 # Parts of complex object
 class Player(object):
+    def __init__(self):
+        self._name = 'Player'
+
     def play(self):
-        print('Player: play game')
+        print('{}: play game'.format(self._name))
 
     def cry(self):
-        print('Player: need help')
+        print('{}: need help'.format(self._name))
 
 
 class Coach(object):
+    def __init__(self):
+        self._name = 'Coach'
+
     def make_lineup(self):
-        print('Coach: define lineup')
+        print('{}: define lineup'.format(self._name))
 
     def make_substitute(self):
-        print('Player: make substitute')
+        print('{}: make substitute'.format(self._name))
 
 
 class ServiceKeeper(object):
+    def __init__(self):
+        self._name = 'ServiceKeeper'
+
     def get_drink(self):
-        print('ServiceKeeper: get drink water')
+        print('{}: get drink water'.format(self._name))
 
     def get_kit(self):
-        print('ServiceKeeper: get kit')
+        print('{}: get kit'.format(self._name))
 
 
 class MedicalStuff(object):
+    def __init__(self):
+        self._name = 'MedicalStuff'
+
     def freeze(self):
-        print('MedicalStuff: freeze')
+        print('{}: freeze'.format(self._name))
 
 
 # Facade

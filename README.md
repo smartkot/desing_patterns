@@ -10,7 +10,7 @@
 
 <h2>Structural</h2>
 
-<h6>Adapter</h6>
+<h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/adapter.py">Adapter</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/bridge.py">Bridge</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/composite.py">Composite</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/facade.py">Facade</a></h6>
