@@ -20,4 +20,4 @@
 
 <h2>Behavioral</h2>
 
-<h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/chain_of_responsibility.py">Chain of responsibility</a></h6>
+<h6><a href="https://github.com/smartkot/desing_patterns/blob/master/behavioral/chain_of_responsibility.py">Chain of responsibility</a></h6>
