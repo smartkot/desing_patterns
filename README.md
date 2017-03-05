@@ -17,3 +17,7 @@
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/facade.py">Facade</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/flyweight.py">Flyweight</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/proxy.py">Proxy</a></h6>
+
+<h2>Behavioral</h2>
+
+<h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/chain_of_responsibility.py">Chain of responsibility</a></h6>
