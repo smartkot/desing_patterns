@@ -15,4 +15,5 @@
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/composite.py">Composite</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/decorator.py">Decorator</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/facade.py">Facade</a></h6>
+<h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/flyweight.py">Flyweight</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/structural/proxy.py">Proxy</a></h6>
