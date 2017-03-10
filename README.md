@@ -23,3 +23,4 @@
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/behavioral/chain_of_responsibility.py">Chain of responsibility</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/behavioral/command.py">Command</a></h6>
 <h6><a href="https://github.com/smartkot/desing_patterns/blob/master/behavioral/iterator.py">Iterator</a></h6>
+<h6><a href="https://github.com/smartkot/desing_patterns/blob/master/behavioral/mediator.py">Mediator</a></h6>
